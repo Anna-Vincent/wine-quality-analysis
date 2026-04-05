@@ -94,6 +94,6 @@ wine-quality-analysis/
 **Anna Vincent**
 
 * GitHub: https://github.com/annavincent
-* LinkedIn: https://linkedin.com/in/annavincent
+* LinkedIn: https://www.linkedin.com/in/anna-vincent-138996244 
 
 ---
